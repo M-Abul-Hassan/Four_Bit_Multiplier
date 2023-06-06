@@ -5,7 +5,6 @@ A four-bit multiplier is a digital circuit used to multiply two four-bit binary 
 ## VHDL Code
 
 
-
 module Bit_multiplier_4(o,a,b);  
 input [3:0] a,b;    
 output [8:1] o;  
